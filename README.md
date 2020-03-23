@@ -1,6 +1,6 @@
 
 **Automated setup:**  
-1:  download `mod.exe`  
+1:  download the latest release of Rmod [from here](https://github.com/Zipliks/rmod/releases)   
 2: run `mod.exe` and follow the instructions  
 
 **manual setup:**  
